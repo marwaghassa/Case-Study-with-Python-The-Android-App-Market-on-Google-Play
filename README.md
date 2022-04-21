@@ -1,5 +1,5 @@
 # Case Study with Python The Android App Market on Google Play
-**
+
 
 ## Project Description
 
@@ -16,7 +16,7 @@ The data files are as follows:
 2-user_reviews.csv: contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed and attributed with three new features: Sentiment (Positive, Negative or Neutral), Sentiment Polarity and Sentiment Subjectivity.
 
 ### Project Tasks
---
+
 
 1-Google Play Store apps and reviews
 
