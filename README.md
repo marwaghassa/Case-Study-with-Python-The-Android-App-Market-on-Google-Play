@@ -1,4 +1,5 @@
-# Case-Study-with-Python-The-Android-App-Market-on-Google-Play
+# Case Study with Python The Android App Market on Google Play
+***
 Project The Android App Market on Google Play
 
 Project Description
